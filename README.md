@@ -1,4 +1,4 @@
-PORT=8000
+PORT=80000
 ORIGIN= ['http://localhost:3000']
 NODE_ENV=devolopment
 DB_URI='mongodb+srv://lmssunamit:GJvVMl5vheMoOVpm@lms.my4nv.mongodb.net/lms'
